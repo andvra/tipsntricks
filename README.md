@@ -1,4 +1,4 @@
-# tipsntricks
+# Tips n' tricks
 
 ## Adding Latex to README markdown
 Based on [this](https://chaonan99.github.io/2016/how-to-add-equation-on-github-markdown-file/) blog post
